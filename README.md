@@ -1,4 +1,4 @@
 # fs_may2019
 
-- [Preview](https://your-name.github.io/your-repo/)
-- [PullRequest](https://github.com/your-name/your-repo/pull/1/files)
+- [Preview](https://danheim.github.io/fs_may2019/)
+- [PullRequest](https://github.com/danheim/fs_may2019/pull/1/files)
